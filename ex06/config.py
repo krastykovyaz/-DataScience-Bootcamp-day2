@@ -1,0 +1,9 @@
+import logging
+
+
+NUM_OF_STEPS = 3
+EXTENSION = '.txt'
+BASE_LOGGING_LEVEL = logging.INFO
+TOKEN = '1818315002:AAEnKKoy838i7RIQcygJa2DVSFiUA1pzTfY'
+REPORT_FILENAME = 'report'
+ID = '*'
